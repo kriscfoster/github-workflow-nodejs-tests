@@ -6,6 +6,6 @@ test('1 + 2 = 3', () => {
   expect(1 + 2).toBe(3);
 });
 
-test('1 + 2 = 1', () => {
-  expect(1 + 2).toBe(1);
+test('1 + 3 = 4', () => {
+  expect(1 + 3).toBe(4);
 });
